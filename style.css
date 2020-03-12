@@ -1,0 +1,39 @@
+
+.navbar-brand{
+    font-family: 'Permanent Marker', cursive;
+    background-color: cadetblue;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: cornsilk;
+
+}
+
+/* About Me Styling */
+
+.container-fluid{
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    height: 450px;
+    background-color: darkgrey;
+    
+}
+
+.col-sm-8{
+    padding-top: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;   
+}
+
+.aboutMeTitle{
+    border-bottom-style: solid;
+    border-color: cadetblue;
+
+}
+
+.aboutMePhoto{
+    padding-top: 15px;
+    padding-left:15px;
+    float: left;
+    padding-right:15px;
+}
