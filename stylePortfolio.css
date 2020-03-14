@@ -5,3 +5,22 @@
     padding-left: 15px;
     padding-right: 15px;
 }
+
+.portfolioTitle{
+    border-bottom-style: solid;
+    border-color: cadetblue;
+}
+
+p{
+    text-align: center;
+    color:rgb(60, 60, 133);
+}
+
+.col-sm-5{
+    background-color: silver;
+    height: 150px;
+    margin-left: 5%;
+    border-style: outset;
+    border-width: 5px;
+    
+}
