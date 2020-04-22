@@ -13,14 +13,28 @@
 
 p{
     text-align: center;
-    color:rgb(60, 60, 133);
+    color:rgb(0, 0, 0);
 }
 
 .col-sm-5{
-    background-color: silver;
-    height: 150px;
+    background-color: rgb(241, 239, 239);
+    max-height: ;
     margin-left: 5%;
     border-style: outset;
     border-width: 5px;
     
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+
+img{
+    display: block;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: groove;
+    border-color: black;
 }
