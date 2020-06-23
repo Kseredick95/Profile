@@ -1,36 +1,32 @@
 
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-attachment: scroll;
+    background: url("../images/background.png");
+    background-attachment: fixed;
+}
 .navbar-brand{
     font-family: 'Permanent Marker', cursive;
-    background-color: cadetblue;
+    background-color: rgb(74, 186, 255);
     padding-left: 1%;
     padding-right: 1%;
 }
 
-/* About Me Styling */
-
-p{
-    padding: 5%;
-    padding-bottom: 1%;
-    font-size: large;
-    text-align: center; 
-}
-
-.aboutMeTitle{
+.title{
     border-bottom-style: solid;
-    border-color: cadetblue;
-
+    border-color:  rgba(74, 186, 255);
 }
 
-.aboutMePhoto{
-    float: left;
-    padding: 10%;
-    width: inherit;
-    align-content: center;
-}
-
-
-body{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-image: url("../images/Geo\ Mosaic\ Wallpaper.jpg");
-    background-attachment: scroll;
+footer{
+    background-color: rgb(231, 246, 255);
+    opacity: 0.7;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+    height: 3%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding-bottom: 3%;
 }

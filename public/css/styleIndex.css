@@ -1,0 +1,25 @@
+/* About Me Styling */
+
+p{  
+    position: relative;
+    padding: 5%;
+    padding-bottom: 1%;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
+
+main{
+    background-color: rgb(74, 186, 255);
+    opacity: 0.9;
+}
+
+.aboutMePhoto{
+    float: left;
+    padding: 10%;
+    width: inherit;
+    align-content: center;
+    border-radius: 50%;
+    border-style: dotted;
+}

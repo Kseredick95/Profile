@@ -1,16 +1,4 @@
 
-.navbar-brand{
-    font-family: 'Permanent Marker', cursive;
-    background-color: cadetblue;
-    padding-left: 1%;
-    padding-right: 1%;
-}
-
-.portfolioTitle{
-    border-bottom-style: solid;
-    border-color: cadetblue;
-}
-
 p{
     text-align: center;
     color:rgb(0, 0, 0);
@@ -23,8 +11,7 @@ p{
     border-style: outset;
     border-width: 5px;
     margin: 1%;
-    float: left;
-    
+    float: left;    
 }
 
 h2{
