@@ -1,10 +1,10 @@
 # Behind the Website
 
-This website was created to demonstrate the structures and usage of HTML, Javascript and CSS in a basic format. Through use of links, grid layout, and Bootstrap, the website was created using these tools to showcase thorough knowledge of beginnings of  web developement through clean design and functionality.
+This website was created to demonstrate the structures and usage of HTML, Javascript and CSS in a basic format. Through use of links, grid layout, and Bootstrap, the website was created using these tools to showcase thorough knowledge of web developement through clean design and functionality. The site also uses basic server and routing functions.
 
 ## Index
 
-The index, or about me page, uses the bare minimum of site construct and is meant to share some simple information about the websites author.
+The index, or about me page, is meant to share some simple information about the website's author.
 
 ## Contacts
 
