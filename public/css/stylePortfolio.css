@@ -3,15 +3,13 @@ p{
     text-align: center;
     color:rgb(0, 0, 0);
 }
-.container{
-    align-content: center;
-}
-.col-sm-5{
+
+.card{
     background-color: rgb(241, 239, 239);
     border-style: outset;
     border-width: 5px;
-    margin: 1%;
-    float: left;    
+    float: right;
+
 }
 
 h2{
@@ -30,4 +28,9 @@ img{
 
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section{
+    align-content: center;
+    align-content: stretch;
 }
