@@ -1,17 +1,31 @@
-# Behind the Website
 
-This website was created to demonstrate the structures and usage of HTML, Javascript and CSS in a basic format. Through use of links, grid layout, and Bootstrap, the website was created using these tools to showcase thorough knowledge of web developement through clean design and functionality. The site also uses basic server and routing functions.
+# Personal Profile
 
-## Index
+## Description
+Showcases projects and provides a contacts page for those wishing to reachout to Karolyn Seredick.
 
-The index, or about me page, is meant to share some simple information about the website's author.
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributors](#contributors)
+* [Questions](#questions)
 
-## Contacts
+## Installation
+npm install
 
-Contacts is meant to give anyone visiting the site an opportunity to open communications between themselves and the website author.
+## Usage
+Select project tab to see displayed projects, select any of the pictures or links to be redirected to that project or it's github. Contacts page displays multiple ways for contacting Karolyn Seredick.
 
-## Portfolio
+## License
+MIT
 
-The portfolio showcases website author's other works or works-in-progrss in a neat, organized fashion along with short descriptions of the works.
+## Contributors
+Karolyn Seredick
 
-** Page is still within development, thus not all functions may work perfectly.
+## Questions
+Contact author at this email : kseredick95@gmail.com
+
+## Badges
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/noobatl/README-Generator?style=flat)](https://github.com/noobatl/README-Generator),[![npm](https://img.shields.io/npm/v/npm?style=flat)](https://www.npmjs.com/),[![node](https://img.shields.io/node/v/inquirer?style=flat)](https://nodejs.org/en/),[![License](https://img.shields.io/static/v1?label=License&message=MIT&color=brightgreen)](https://www.mit.edu/~amini/LICENSE.md),[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+
